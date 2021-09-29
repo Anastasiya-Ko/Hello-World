@@ -1,0 +1,4 @@
+class Promokashka;
+public static void maim (String [] args) {
+    System.out.print("Привет, мир!");
+}
